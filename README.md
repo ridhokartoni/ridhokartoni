@@ -1,7 +1,7 @@
 
 <br/>
 <h1 align="center">Hi 👋, I'm Ridho Kartoni</h1>
-<h3 align="justify">A enthusiat on the web development world. Im an aspiring full-stack web developer. I'm still learning web development with skills in both front-end and back-end development. With a keen eye for design and attention to detail, I strive to create beautiful and functional websites.</h3>
+<h3 align="justify">An enthusiat on the web development world. Im an aspiring full-stack web developer. I'm still learning web development with skills in both front-end and back-end development. With a keen eye for design and attention to detail, I strive to create beautiful and functional websites.</h3>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
