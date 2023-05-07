@@ -1,12 +1,5 @@
 
-![Group 1](https://user-images.githubusercontent.com/109097651/179732878-33f4d8e1-9b56-44b5-aca2-b1b236c58947.png)
-
 <br/>
-
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=58A6FF&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+UI+/+UX+Designer" /></a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ridho Kartoni</h1>
 <h3 align="justify">A enthusiat on the web development world. Im an aspiring full-stack web developer. I'm still learning web development with skills in both front-end and back-end development. With a keen eye for design and attention to detail, I strive to create beautiful and functional websites.</h3>
 
